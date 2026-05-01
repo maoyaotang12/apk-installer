@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
 Name=APK安装器
-Comment=KDE图形化APK安装工具，右键安装APK到安卓设备
+Comment=简单的图形 APK 安装器，支持右键APK直接安装
 Exec=apk-installer %U
 Icon=apk-installer
 Terminal=false
