@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=APK安装器
+Comment=KDE图形化APK安装工具，右键安装APK到安卓设备
+Exec=apk-installer %U
+Icon=apk-installer
+Terminal=false
+MimeType=application/vnd.android.package-archive;
+Categories=Utility;Development;
+NoDisplay=false
+StartupWMClass=apk-installer
